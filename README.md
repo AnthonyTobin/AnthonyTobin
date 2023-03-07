@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnthonyTobin
-- 👀 I’m interested in C/C++, Unity, Unreal Engine, Bitcoin
+- 👀 I’m interested in Modern C/C++, Unity, Unreal Engine, Bitcoin
 - 🌱 I’m currently learning Python, Lightning, Cryptography
 - 💞️ I’m looking to collaborate on above or associated subjects
 - 📫 I can be reached on twitter @AnthonyTobin7
